@@ -1,6 +1,0 @@
-﻿28713, "Research <b>Battlefield Scanners<b> (<cost>; Confederacy Specific) \nMilitary units gain +2 line of sight"
-28714, "Research <b>Carbon Freezing<b> (<cost>) \nCarbon deposits last 10% longer."
-28715, "Research <b>Trapping<b> (<cost>) \nHunters collect Food 15% faster."
-28716, "Research <b>Power Converters<b> (<cost>) \nPower droids move faster."
-28717, "Research <b>AA Battery<b> (<cost>) \nEnables the construction of AA Batteries."
-28718, "Research <b>Flak Defenses<b> (<cost>) \nCommand Centers can target aircraft."

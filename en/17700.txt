@@ -1,6 +1,0 @@
-﻿17713, "Battlefield\nScanners"
-17714, "Carbon\nFreezing"
-17715, "Trapping"
-17716, "Power\nConverters"
-17717, "AA Battery"
-17718, "Flak\nDefenses"
