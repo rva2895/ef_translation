@@ -1,0 +1,7 @@
+﻿4200, "M"
+4201, "Tech Level 1"
+4202, "Tech Level 2"
+4203, "Tech Level 3"
+4204, "Tech Level 4"
+4205, "Post-Tech Level 4"
+4206, "Pre-Tech Level 1"

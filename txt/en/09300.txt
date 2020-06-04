@@ -1,0 +1,7 @@
+﻿9300, "Hotkeys"
+9301, "Hotkey Groups"
+9302, "Default Hotkeys"
+9303, "Change"
+9304, "Clear"
+9305, "Reset"
+9306, "Back"
