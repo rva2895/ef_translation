@@ -1,7 +1,0 @@
-﻿20200, "Cost: "
-20201, "Hit Pts: "
-20202, "Attack: "
-20203, "Range: "
-20204, "Armor: "
-20205, "DuraArmor: "
-20206, "Garrison: "
